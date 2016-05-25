@@ -5,23 +5,23 @@ name: liuliu的自言自语
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: liuliu's blog, deploy with github page, using Holo Alfa theme
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: 人丑就要多读书
 
 author:
-  name: Stijn van Cuijk
+  name: liuliu
 
   # Necessary for contact page
-  email: stijnvcuijk@gmail.com
+  email: liuliu_hit@sina.com
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
 url: http://liuliuhit.github.io
-baseurl: "/"
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
@@ -37,10 +37,10 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Talk is cheap, show me the code.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
-logo-image: # /img/logo.png
+logo-image: #"/img/logo.png"
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#00f0ff"
