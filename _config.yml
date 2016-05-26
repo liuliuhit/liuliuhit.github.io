@@ -1,14 +1,13 @@
-
 # The name of your website.
-name: liuliu的自言自语
+name: Liu Liu的自言自语
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: liuliu's blog, deploy with github page, using Holo Alfa theme
+  meta: Liu Liu's blog，不定期更新，更新看心情
 
   # Description of your site. This will show up on the front page.
-  subtitle: 人丑就要多读书
+  subtitle: "Talk is cheap, show me the code. <p align=\"right\"> - Linus Torvalds</p>"
 
 author:
   name: liuliu
@@ -37,10 +36,12 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: Talk is cheap, show me the code.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Copyright © 2016 Liu Liu <br> <a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> theme by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>. Hosted on GitHub Pages powered by Jekyll.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: #"/img/logo.png"
+
+cover-image: hipster.jpg
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#00f0ff"
@@ -72,7 +73,7 @@ date_format: "%b %-d, %Y"
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-paginate: 3
+paginate: 5
 
 # Display links for the previous and next post on post pages.
 display-next-prev-post: false
