@@ -36,7 +36,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: Copyright © 2016 Liu Liu <br> <a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> theme by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>. Hosted on GitHub Pages powered by Jekyll.
+footer-text: Copyright © 2016 Liu Liu <br> <a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> theme by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>. Hosted on GitHub powered by Jekyll.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: #"/img/logo.png"
